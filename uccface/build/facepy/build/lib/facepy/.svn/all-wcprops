@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy
+END
+graph_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy/graph_api.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy/utils.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy/exceptions.py
+END
+signed_request.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy/signed_request.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/build/lib/facepy/version.py
+END

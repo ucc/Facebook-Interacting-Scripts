@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet
+END
+langcyrillicmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/langcyrillicmodel.py
+END
+langhungarianmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/langhungarianmodel.py
+END
+langhebrewmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/langhebrewmodel.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/__init__.py
+END
+big5prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/big5prober.py
+END
+latin1prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/latin1prober.py
+END
+universaldetector.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/universaldetector.py
+END
+jisfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/jisfreq.py
+END
+big5freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/big5freq.py
+END
+gb2312prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/gb2312prober.py
+END
+escsm.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/escsm.py
+END
+chardistribution.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/chardistribution.py
+END
+gb2312freq.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/gb2312freq.py
+END
+langgreekmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/langgreekmodel.py
+END
+charsetgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/charsetgroupprober.py
+END
+mbcharsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/mbcharsetprober.py
+END
+mbcssm.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/mbcssm.py
+END
+escprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/escprober.py
+END
+hebrewprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/hebrewprober.py
+END
+sbcharsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/sbcharsetprober.py
+END
+codingstatemachine.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/codingstatemachine.py
+END
+utf8prober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/utf8prober.py
+END
+euctwprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/euctwprober.py
+END
+charsetprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/charsetprober.py
+END
+euctwfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/euctwfreq.py
+END
+jpcntx.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/jpcntx.py
+END
+langthaimodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/langthaimodel.py
+END
+mbcsgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/mbcsgroupprober.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/constants.py
+END
+eucjpprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/eucjpprober.py
+END
+sbcsgroupprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/sbcsgroupprober.py
+END
+sjisprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/sjisprober.py
+END
+euckrprober.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/euckrprober.py
+END
+langbulgarianmodel.py
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/langbulgarianmodel.py
+END
+euckrfreq.py
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/packages/chardet/euckrfreq.py
+END

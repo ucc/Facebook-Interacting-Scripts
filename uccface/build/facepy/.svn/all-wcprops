@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/LICENSE
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/README.rst
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/setup.py
+END
+HISTORY.rst
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/HISTORY.rst
+END
+PKG-INFO
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/PKG-INFO
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/MANIFEST.in
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/facepy/setup.cfg
+END

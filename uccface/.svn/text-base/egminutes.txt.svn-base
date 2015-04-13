@@ -1,0 +1,119 @@
+Minutes of Meeting 26th June 1997
+
+Present: [DGC] [DUC] [JPB] [SGC] [SAF] [NTU] [SD:]
+
+Awol:    [ALU] [ACC]
+
+Apologies: [PGW]
+
+Meeting opened 1305
+
+President's Report:
+
+	Spoke to [TDH] regarding the Be.
+	Be have been contacted, they would like to upgrade him for us.
+		to latest hardware. :)
+	We will do so with Peter's permission.
+	
+	Noonan: did not have the consignment notes.
+		he is still trying :/
+	
+	Twiss: rang Abacus, he no longer works there !!!!!!
+		[DGC] is chasing.
+	
+	the CRO has arrived.  :)
+	it is amazingly cool
+	[PGW] & [DGC] tested it.
+	[SAF] & [JPB] packet sniffed the network with it.  ;)
+
+	A member named Peter Markwell spoke with [SAF] re the HP 3000.  He has
+	a clue regarding software.
+
+	[JPB] returned the HP hub.
+	[DUC] no mail logging yet.
+
+	[NTU] & [DUC] compiled nnstat on starfish.  load immediatly went >1
+	
+	Leighton and Yeroen broke the table up in the loft.
+	[DGC] emailed them re getting it fixed.
+	The club will organise getting the table recovered and painted
+
+[NTU] arrives, wearing a suit!
+	* we now have one less hacker and one more suit
+
+	the cleanup was partly a success
+	many people who said they would be there weren't  :(
+
+Treasurer's Report:
+	we are $2000 less +ve than last week.
+	$205 to be banked RSN
+	[SD:] hasn't banked her cheque yet
+	$1475 on the CRO
+	~$350 on network traffic.
+
+*****************************************************************************
+Terrence van Heygen
+
+[PGW] calls and apologises.
+	
+	it was a serious attempt at cracking root.
+	however, [TTSGD] is not a particularly clueful hacker
+	the method was a well documented way, that won't work on UCCFS
+
+	Q: any possibility of it being accidental?
+	A: no way.
+
+	Resolution:
+		leave acct locked for 2 weeks as a punitive measure, or
+		more/less as wheel's prerogative.
+	
+	[SAF] to check out acct and report to wheel and committee
+
+******************************************************************************
+
+Machine Reports:
+	couldn't telnet to starfish on Wednesday.
+		[SAF] rebooted.
+		passwd file to be assimilated.
+	mermaid's power supply has been replaced.
+	moray: runsocks needs fixing
+		[JEB] claims to have fixed it , duh!
+	
+
+	all others exist
+
+General Business:
+
+	[DUC] webmasters should be sacked.  They are not doing anything,
+	inc self.
+
+	nnstat was compiled on manta and did nothing.
+	was compiled on starfish and did something
+
+	[COMMITTEE] degenerates in a Flying Circus
+
+	traffic logs: other options exist, but nnstat will do the trick and
+	has more options
+
+	preffered OS's are:
+		SunOS or Vax-OS-en
+		maybe Solaris
+	
+	Iain Martin has been emailed.
+		acct is currently unlocked
+		will be locked if no response heard soon
+
+
+	Vending Machine
+		we will not get one from Smiths.  They use their old ones for
+		spare parts.
+	
+	1st Friday of 2nd Semester is the 2nd Guild O'Day
+	is also the day of the General Meeting
+	also Electronic Engineering's open day
+		for all those who want a free t-shirt.  :)
+
+	23rd Birthday coming up soon.
+		[SD:] to organise.
+
+		meeting closed 1400

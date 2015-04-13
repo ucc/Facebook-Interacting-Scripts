@@ -1,0 +1,118 @@
+#!/usr/bin/env
+import sys
+import urllib
+import urlparse
+import subprocess
+import warnings
+import readline
+import string
+import facepy
+import pickle
+
+def Authenticate():
+	"""Returns access-token"""
+	APP_ID = 398756193522111
+	APP_SECRET = "ad1f8b622d082d2364e960ae7c812619"
+	PERMISSIONS=["publish_stream", "user_groups", "user_events", "create_event"]
+	
+	oauth_args = dict(client_id = APP_ID,
+            		  redirect_uri = "http://www.facebook.com/connect/login_success.html",
+					  scope = string.join(PERMISSIONS, " " ),
+					  response_type='token'
+					  )
+			
+	oauth_url='http://www.facebook.com/dialog/oauth?'
+	full_page_url = oauth_url + urllib.urlencode(oauth_args)
+
+	oauth_response = raw_input("please open: " +	full_page_url + ",\n" +
+		  "and paste the final URL you are redirected to here: ")
+	
+	frag = urlparse.urlparse(oauth_response).fragment
+
+	if (frag.startswith("access_token=")):
+		token = frag.split("=")[1].split("&")[0]
+		return token
+	else: raise ValueError("Could not fine access_token string")
+
+
+
+GROUP_ID = str(335984893161499)
+PAGE_ID = 'universitycomputerclub'
+
+
+
+CONFIG_FILENAME = "config.pck"
+class ConfigData:
+	_token =""
+
+	def token(self):
+		return self._token
+
+	def recreate_token(self):
+		self._token = Authenticate()
+		self.save()
+		return self.token()
+
+	def recreate(self):
+		self.recreate_token()
+	
+	def save(self):
+		pickle.dump(self, open("config.pck", "wb"))
+		
+
+config = ConfigData()
+try:
+	config = pickle.load(CONFIG_FILENAME)
+except:
+	config = ConfigData().recreate()
+
+def loadgraph():
+	graph = facepy.GraphAPI(config.token())
+	try:
+		#test if still valid
+		graph.get(GROUP_ID+"/feed")
+	except facepy.exceptions.OAuthError:
+		#todo handle if it's not		
+		print("Token Not Valid, reauthenticating")
+		config.recreate_token()
+		
+
+	return graph
+	
+
+def parseDatetime(datetimestring):
+	"""datetimestring in format: "%Y-%m-%dT%H:%M eg: 2012-8-28T18:30"""
+	return datetime.datetime.strptime(datetimestring, "%Y-%m-%dT%H:%M")
+
+#def CreateEvent(name, message, start_datetime)
+
+#def CreateEvent(name, message, starttime, startdate, endtime, enddate=None):
+#	enddate = enddate or startdate #default to startdate
+
+def PostMessage(message, link=None):
+	graph = loadgraph()
+	if (link): 
+		graph.post(GROUP_ID + "/feed", message=message, link=link)
+	else:
+		graph.post(GROUP_ID + "/feed", message=message)
+	print "Message Posted successfully"
+
+
+if __name__ == "__main__":
+	#parser = argparse.ArgumentParser(description='Automatically posts to the UCC facebook group.')
+	#parser.add_argument('-l', '--link')
+	#parser.add_argument('msg')
+	#parser.parse_args(' --link
+	
+	if len(sys.argv)==2:
+		PostMessage(sys.argv[1])
+	elif len(sys.argv)==3:
+		PostMessage(sys.argv[1],sys.argv[2])
+	else: print("No arguments given.")
+
+
+
+
+
+
+

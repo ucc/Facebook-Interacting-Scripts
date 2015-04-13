@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/cacert.pem
+END
+cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/cookies.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/__init__.py
+END
+status_codes.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/status_codes.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/utils.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/auth.py
+END
+sessions.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/sessions.py
+END
+defaults.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/defaults.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/api.py
+END
+async.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/async.py
+END
+_oauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/_oauth.py
+END
+certs.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/certs.py
+END
+exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/exceptions.py
+END
+safe_mode.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/safe_mode.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/models.py
+END
+hooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/hooks.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/compat.py
+END
+structures.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/requests/structures.py
+END

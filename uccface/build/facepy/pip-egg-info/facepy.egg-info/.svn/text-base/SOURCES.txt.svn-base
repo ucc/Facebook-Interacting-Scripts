@@ -1,0 +1,17 @@
+HISTORY.rst
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+facepy/__init__.py
+facepy/exceptions.py
+facepy/graph_api.py
+facepy/signed_request.py
+facepy/utils.py
+facepy/version.py
+pip-egg-info/facepy.egg-info/PKG-INFO
+pip-egg-info/facepy.egg-info/SOURCES.txt
+pip-egg-info/facepy.egg-info/dependency_links.txt
+pip-egg-info/facepy.egg-info/not-zip-safe
+pip-egg-info/facepy.egg-info/requires.txt
+pip-egg-info/facepy.egg-info/top_level.txt

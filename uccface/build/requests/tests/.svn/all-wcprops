@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/tests
+END
+test_requests.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/tests/test_requests.py
+END
+test_requests_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/tests/test_requests_ext.py
+END
+test_cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/tests/test_cookies.py
+END
+test_requests_https.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/oxinabox/!svn/ver/1203/Programming/ucc/uccface/build/requests/tests/test_requests_https.py
+END
